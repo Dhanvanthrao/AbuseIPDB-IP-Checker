@@ -26,10 +26,10 @@ To use this script, you need an API key from [AbuseIPDB](https://www.abuseipdb.c
 
 After obtaining the API key, add it to the `API_KEY` variable in the script:
 
-```python
+```python```
 API_KEY = 'your-api-key-here'
 
 Add the IP List You Want to Check
 
-```python
+```python```
 ips = ["142.250.182.74", "8.8.8.8", "17.253.18.131"]
